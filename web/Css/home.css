@@ -1,0 +1,88 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Mar 2, 2020, 5:43:08 PM
+    Author     : Khanh Xinh Tuoi
+*/
+
+#divAvatar{
+    float: right;
+    width: auto;
+    height: auto;
+    margin-top: 3px;
+    margin-bottom: 3px;
+    margin-left: 0px;
+    margin-right: 20px;
+    padding: 0px;
+}
+.avatar{
+    width: 170px;
+    height: 200px;
+    margin: 0px;
+    padding: 0px;
+    border-radius: 12px;
+}
+#divTitleContent{
+    float: left;
+    width: auto;
+    height: auto;
+    margin-top: 3px;
+    margin-bottom: 3px;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding: 0px;
+}
+.divCake1{
+    float: left;
+    width: 49%;
+    margin-top: 40px;
+    height: auto;
+    overflow: auto;
+}
+
+.divCake1 img{
+    width: 100%;
+}
+.imageCakeHome{
+    width: 98%;
+    height: 240px;
+    margin: 0px;
+    padding: 0px;
+    border-radius: 12px;
+}
+.centerdiv{
+    width: 2%;
+    height: auto;
+}
+.divCake2{
+    float: right;
+    width: 49%;
+    margin-top: 40px;
+    height: auto;
+    overflow: auto;
+}
+
+.divCake2 img{
+    width: 100%;
+}
+#divVisit{
+    width: 100%;
+    height: auto;
+    margin-top: 30px;
+    margin-bottom: 15px;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding: 0px;
+}
+#divSign{
+    width: 100%;
+    height: auto;
+    margin-top: 30px;
+    margin-bottom: 40px;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding: 0px;
+}

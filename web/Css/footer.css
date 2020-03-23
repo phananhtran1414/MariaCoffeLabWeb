@@ -1,0 +1,54 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Mar 2, 2020, 5:42:30 PM
+    Author     : Khanh Xinh Tuoi
+*/
+
+.container {
+    
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.footer-wrapper {
+    background-color: #FFF;
+    overflow: hidden;
+    position: relative;
+    top: 0px;
+    width: 100%;
+    padding-top: 5px;
+    padding-bottom: 15px;
+    margin-bottom: 20px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+.footer-wrapper .powerby > a {
+    font-size: 14px;
+    line-height: 18px;
+}
+
+.footer-wrapper .count {
+    float: right;
+    position: relative;
+    top: -20px;
+    overflow: hidden;
+}
+
+.footer-wrapper .count > ul {
+    list-style-type: none;
+    margin: 0;
+}
+
+.footer-wrapper .count > ul > li {
+    display: inline-block;
+    border: 1px solid #000;
+    padding: 2px 2px;
+    text-align: center;
+    font-weight: bold;
+    border-radius: 3px;
+}

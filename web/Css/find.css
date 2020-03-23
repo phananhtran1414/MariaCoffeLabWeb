@@ -1,0 +1,44 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Mar 2, 2020, 5:41:59 PM
+    Author     : Khanh Xinh Tuoi
+*/
+
+fontFindPage{
+    font-family: Times New Roman;
+    font-weight: normal;
+    font-size: 23px;
+}
+/*the area about open and close*/
+#divOpenClose{
+    width: 49%;
+    height: auto;
+    margin-left: 1%;
+    margin-right: 0px;
+    margin-top: 20px;
+    padding: 0px;
+}
+#divTitleContent{
+    float: left;
+    width: auto;
+    height: auto;
+    margin-top: 3px;
+    margin-bottom: 3px;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding: 0px;
+}
+/*set image map*/
+.imageMap{
+    width: 100%;
+    height: auto;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding: 0px;
+}

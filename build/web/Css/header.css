@@ -1,0 +1,42 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Mar 2, 2020, 5:42:51 PM
+    Author     : Khanh Xinh Tuoi
+*/
+
+#bigHeader{
+    width: 96%;
+    height: 120px;
+    margin: 0px;
+    padding-top: 30px;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-bottom: 0px;
+    background-color: #f68c1f;
+}
+.magin{
+    margin: 0px;
+}
+.logo{
+    font-family: Times New Roman;
+    font-size: 48px;
+    font-weight: normal;
+    color: white
+}
+.colorWhite{
+    color: white;
+}
+.subLogo{
+    margin-top: 0px;
+    margin-bottom: 15px;
+    font-weight: normal;
+    font-size: 22px;
+}
+.fontTimeNewRoman{
+    font-family: Times New Roman;
+    font-weight: normal;
+}

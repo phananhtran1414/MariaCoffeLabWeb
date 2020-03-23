@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/Maria">
+    <Environment name="serverName" type="java.lang.String" value="DESKTOP-FQ1MOV8\SQLEXPRESS"/>
+    <Environment name="dbName" type="java.lang.String" value="Maria"/>
+    <Environment name="portNumber" type="java.lang.String" value="1433"/>
+    <Environment name="userID" type="java.lang.String" value="sa"/>
+    <Environment name="password" type="java.lang.String" value="phananh1414"/>
+    <Environment name="image" type="java.lang.String" value="Image/"/>
+    <Environment name="pageSize" type="java.lang.Integer" value="3"/>
+</Context>
